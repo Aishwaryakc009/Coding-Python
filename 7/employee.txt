@@ -1,0 +1,5 @@
+01|Abhishek|20000
+02|Rekha|25000
+03|Aishwarya|15000
+04|Vikrant|40000
+05|Shurti|60000
