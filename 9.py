@@ -1,3 +1,5 @@
+"Run-Length Encoding (RLE): counting consecutive repeated characters."
+
 str1=input("Enter input:")
 output=""
 char=str1[0]

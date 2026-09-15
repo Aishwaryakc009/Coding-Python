@@ -1,3 +1,5 @@
+" Clock stopping player game "
+
 from time import sleep
 
 def run():
